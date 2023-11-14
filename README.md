@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/KarissaMcGuire/KarissaMcGuire/_apis/build/status%2Fkarixia.mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/KarissaMcGuire/KarissaMcGuire/_build/latest?definitionId=2&branchName=feature%2Fhome-page-text)
 
 # Contributing
 
